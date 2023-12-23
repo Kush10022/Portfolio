@@ -1,0 +1,37 @@
+/* Projects.css */
+#projects {
+    padding: 40px;
+    background-color: #f4f4f4;
+  }
+  
+  .projects-container {
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  .projects-container h2 {
+    color: #333;
+  }
+  
+  .project {
+    border: 1px solid #ddd;
+    padding: 20px;
+    margin: 20px 0;
+  }
+  
+  .project h3 {
+    color: #555;
+  }
+  
+  .project p {
+    color: #666;
+  }
+  
+  .project a {
+    color: #007bff;
+    text-decoration: none;
+    margin-top: 10px;
+    display: block;
+  }
+  

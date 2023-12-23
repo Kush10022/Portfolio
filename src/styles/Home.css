@@ -1,0 +1,51 @@
+/* Home.css */
+/* #home {
+    padding: 40px;
+    background-color: #f9f9f9;
+  }
+   */
+  /* Styles for the hero section */
+#home {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  height: 100vh; /* Full viewport height */
+  text-align: center;
+  background-color: #f8f8f8; /* Light background */
+  color: #333; /* Dark text for contrast */
+  padding: 0 20px; /* Padding on the sides */
+}
+
+  .profile-photo {
+    max-width: 300px; /* Adjust the size as needed */
+    border-radius: 50%; /* Circular photo */
+    margin-bottom: 20px; /* Space between the photo and the text */
+    border: 3px solid #333; /* Optional: adds a border around the image */
+  }
+
+  .home-container button{
+    padding: 10px 20px;
+    margin: 0 10px; /* Space between buttons */
+    border: 2px solid #333; /* Border for buttons */
+    background-color: transparent; /* No background color */
+    color: #333; /* Text color */
+    text-transform: uppercase;
+    transition: all 0.3s ease;
+    cursor: pointer;
+  }
+  
+  .home-container button:hover {
+    background-color: #333; /* Background color on hover */
+    color: #fff; /* Text color on hover */
+  }
+  .home-container h2 {
+    font-size: 3em; /* Large font size for the main heading */
+    margin-bottom: 0.5em;
+  }
+  
+  .home-container p {
+    font-size: 1.5em; /* Larger than normal text for the intro */
+    margin-bottom: 2em;
+  }
+  

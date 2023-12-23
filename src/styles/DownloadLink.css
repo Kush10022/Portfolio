@@ -1,0 +1,11 @@
+/* DownloadLink.css */
+.download-link-container a {
+    color: #007bff;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  .download-link-container a:hover {
+    text-decoration: underline;
+  }
+  
