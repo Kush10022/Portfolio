@@ -27,6 +27,18 @@ const Projects = () => {
             View on GitHub
           </a>
         </div>
+        <div className="project">
+          <h3>Normal website using multer and bodyparser</h3>
+          <p>This website incorporates Express for handling web routes and employs two key middleware packages: 
+            body-parser and multer. body-parser is used for parsing incoming request bodies, making it easier 
+            to extract and handle form data, especially URL-encoded data. multer is specialized for handling 
+            multipart/form-data, which is primarily used for file uploads. This middleware is configured to 
+            facilitate image uploading, storing them in a designated directory. The script's functionality includes 
+            handling various web page requests, processing form submissions, and managing image uploads.</p>
+          <a href="https://github.com/Kush10022/MulterAndBodyParser" target="_blank" rel="noopener noreferrer">
+            View on GitHub
+          </a>
+        </div>
         {/* Add more projects as needed */}
       </div>
     </section>
