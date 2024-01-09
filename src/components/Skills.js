@@ -11,11 +11,10 @@ const Skills = () => {
           <div className="technical-skills">
             <h3>Technical Skills</h3>
             <ul>
-              <li>Programming Languages: C, C++, JavaScript, Python</li>
+              <li>Programming Languages: Python, C, C++, JavaScript</li>
               <li>Web Technologies: HTML, CSS, ReactJS, NodeJS, NextJS</li>
               <li>Backend Technologies: Express.js</li>
               <li>Databases: SQL, PL/SQL, MongoDB</li>
-              <li>DevOps & Deployment: GitHub</li>
               <li>Development Tools: GitHub, Jira</li>
               <li>Testing: Unit & E2E Testing</li>
               <li>Linux Scripting: Proficient in Linux scripting for various system administration tasks and automation, gained during my tenure at the Ministry of Transportation.</li>

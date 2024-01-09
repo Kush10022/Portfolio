@@ -9,15 +9,21 @@ const Projects = () => {
         <h2>My Projects</h2>
         <div className="project">
           <h3>Metropolitan-Museum-of-Art</h3>
-          <p>Description of Project 1...</p>
+          <p>Independently developed a robust Web API using Express and Node.js, facilitating efficient data management and enhancing the museum's online presence. 
+        Utilized Next.js for the front end and integrated a MongoDB database to create a modern, responsive website that improved user engagement and provided a dynamic online experience for museum visitors. 
+          </p>
           <a href="https://github.com/Kush10022/Metropolitan-Museum-of-Art.git" target="_blank" rel="noopener noreferrer">
             View on GitHub
           </a>
         </div>
         <div className="project">
-          <h3>Project 2</h3>
-          <p>Description of Project 2...</p>
-          <a href="https://github.com/yourusername/project2" target="_blank" rel="noopener noreferrer">
+          <h3>Ticket Kart</h3>
+          <p>The vision for TicketKart is to provide a reliable, efficient, and user-friendly platform for concert 
+            promoters and customers, enabling them to seamlessly manage events, sell and purchase tickets, 
+            and select preferred seats. Comprehensive solution includes the ability to add venue information, 
+            making TicketKart the go-to platform for all concert-related needs. 
+            My goal is to make TicketKart the most trusted and preferred ticket sales system in the market.</p>
+          <a href="https://github.com/Kush10022/TicketMaster" target="_blank" rel="noopener noreferrer">
             View on GitHub
           </a>
         </div>
